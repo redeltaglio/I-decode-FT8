@@ -1,2 +1,4 @@
-# I-decode-FT8
-# I-decode-FT8
+# Decoding radio digital FT8 modulation
+
+
+
